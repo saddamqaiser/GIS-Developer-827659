@@ -1,0 +1,51 @@
+Warning 6: Normalized/laundered field name: 'description' to 'descriptio'
+Warning 6: Normalized/laundered field name: 'htmldescription' to 'htmldescri'
+Warning 6: Normalized/laundered field name: 'iconoverall' to 'iconoveral'
+Warning 6: Normalized/laundered field name: 'episodealertlevel' to 'episodeale'
+Warning 6: Normalized/laundered field name: 'episodealertscore' to 'episodea_1'
+Warning 6: Normalized/laundered field name: 'istemporary' to 'istemporar'
+Warning 6: Field fromdate create as date field, though DateTime requested.
+Warning 6: Field todate create as date field, though DateTime requested.
+Warning 6: Normalized/laundered field name: 'polygonlabel' to 'polygonlab'
+Warning 6: Normalized/laundered field name: 'countryonland' to 'countryonl'
+Warning 6: Normalized/laundered field name: 'affectedcountries' to 'affectedco'
+Warning 6: Normalized/laundered field name: 'severitydata' to 'severityda'
+Warning 6: Normalized/laundered field name: 'polygondate' to 'polygondat'
+Warning 6: Field polygondat create as date field, though DateTime requested.
+Warning 6: Normalized/laundered field name: 'iconeventlink' to 'iconeventl'
+Warning 6: Normalized/laundered field name: 'iconitemlink' to 'iconitemli'
+Warning 1: Value '{ "geometry": "https:\/\/www.gdacs.org\/gdacsapi\/api\/polygons\/getgeometry?eventtype=TC&eventid=1000859&episodeid=13", "report": "https:\/\/www.gdacs.org\/report.aspx?eventid=1000859&episodeid=13&eventtype=TC", "details": "https:\/\/www.gdacs.org\/gdacsapi\/api\/events\/geteventdata?eventtype=TC&eventid=1000859" }' of field url has been truncated to 254 characters.  This warning will not be emitted any more for that layer.
+Warning 6: Normalized/laundered field name: 'description' to 'descriptio'
+Warning 6: Normalized/laundered field name: 'htmldescription' to 'htmldescri'
+Warning 6: Normalized/laundered field name: 'iconoverall' to 'iconoveral'
+Warning 6: Normalized/laundered field name: 'episodealertlevel' to 'episodeale'
+Warning 6: Normalized/laundered field name: 'episodealertscore' to 'episodea_1'
+Warning 6: Normalized/laundered field name: 'istemporary' to 'istemporar'
+Warning 6: Field fromdate create as date field, though DateTime requested.
+Warning 6: Field todate create as date field, though DateTime requested.
+Warning 6: Normalized/laundered field name: 'polygonlabel' to 'polygonlab'
+Warning 6: Normalized/laundered field name: 'countryonland' to 'countryonl'
+Warning 6: Normalized/laundered field name: 'affectedcountries' to 'affectedco'
+Warning 6: Normalized/laundered field name: 'severitydata' to 'severityda'
+Warning 6: Normalized/laundered field name: 'polygondate' to 'polygondat'
+Warning 6: Field polygondat create as date field, though DateTime requested.
+Warning 6: Normalized/laundered field name: 'iconeventlink' to 'iconeventl'
+Warning 6: Normalized/laundered field name: 'iconitemlink' to 'iconitemli'
+Warning 1: Value '{ "geometry": "https:\/\/www.gdacs.org\/gdacsapi\/api\/polygons\/getgeometry?eventtype=TC&eventid=1000859&episodeid=13", "report": "https:\/\/www.gdacs.org\/report.aspx?eventid=1000859&episodeid=13&eventtype=TC", "details": "https:\/\/www.gdacs.org\/gdacsapi\/api\/events\/geteventdata?eventtype=TC&eventid=1000859" }' of field url has been truncated to 254 characters.  This warning will not be emitted any more for that layer.
+Warning 6: Normalized/laundered field name: 'description' to 'descriptio'
+Warning 6: Normalized/laundered field name: 'htmldescription' to 'htmldescri'
+Warning 6: Normalized/laundered field name: 'iconoverall' to 'iconoveral'
+Warning 6: Normalized/laundered field name: 'episodealertlevel' to 'episodeale'
+Warning 6: Normalized/laundered field name: 'episodealertscore' to 'episodea_1'
+Warning 6: Normalized/laundered field name: 'istemporary' to 'istemporar'
+Warning 6: Field fromdate create as date field, though DateTime requested.
+Warning 6: Field todate create as date field, though DateTime requested.
+Warning 6: Normalized/laundered field name: 'polygonlabel' to 'polygonlab'
+Warning 6: Normalized/laundered field name: 'countryonland' to 'countryonl'
+Warning 6: Normalized/laundered field name: 'affectedcountries' to 'affectedco'
+Warning 6: Normalized/laundered field name: 'severitydata' to 'severityda'
+Warning 6: Normalized/laundered field name: 'polygondate' to 'polygondat'
+Warning 6: Field polygondat create as date field, though DateTime requested.
+Warning 6: Normalized/laundered field name: 'iconeventlink' to 'iconeventl'
+Warning 6: Normalized/laundered field name: 'iconitemlink' to 'iconitemli'
+Warning 1: Value '{ "geometry": "https:\/\/www.gdacs.org\/gdacsapi\/api\/polygons\/getgeometry?eventtype=TC&eventid=1000859&episodeid=13", "report": "https:\/\/www.gdacs.org\/report.aspx?eventid=1000859&episodeid=13&eventtype=TC", "details": "https:\/\/www.gdacs.org\/gdacsapi\/api\/events\/geteventdata?eventtype=TC&eventid=1000859" }' of field url has been truncated to 254 characters.  This warning will not be emitted any more for that layer.
